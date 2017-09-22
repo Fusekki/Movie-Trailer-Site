@@ -1,5 +1,5 @@
-# Cenema Now
-## A python movie trailer site featuring the hottest trailers of 2017.
+# Movie-Trailer-Site
+## A python project featuring the trailers of some of the most interesting movies of 2017.
 
 
 Utilizes:

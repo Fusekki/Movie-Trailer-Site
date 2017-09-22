@@ -1,5 +1,5 @@
 import media
-import cinema_now
+import fresh_tomatoes
 
 despicable_me = media.Movie("Despicable Me 3",
                      "Gru meets his long-lost charming, cheerful, and more successful twin brother Dru who wants to team up with him for one last criminal heist.",
@@ -32,4 +32,4 @@ last_jedi = media.Movie("The Last Jedi",
                      "https://www.youtube.com/watch?v=zB4I68XVPzQ")
 
 movies = [despicable_me, kingsman, atomic_blonde, dunkirk, blade_runner, last_jedi]
-cinema_now.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(movies)
