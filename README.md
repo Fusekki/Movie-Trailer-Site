@@ -13,7 +13,7 @@ To launch, follow these steps:
 * Install the prerequisites listed above.
 * Clone the repo.
 * From a command prompt, navigate to the cloned directory.
-* from the command prompt, enter python media_center.py
+* enter: python media_center.py
 * Enjoy some stellar trailers.
 
 
