@@ -1,6 +1,7 @@
 import media
 import fresh_tomatoes
-# Movie class
+
+# Movie instance - Desplicable Me
 despicable_me = media.Movie("Despicable Me 3",
                             "Gru meets his long-lost charming, cheerful, "
                             "and more successful twin brother Dru who wants "
@@ -8,7 +9,7 @@ despicable_me = media.Movie("Despicable Me 3",
                             "https://movies.universalpictures.com/media/dm3"
                             "-adv1sheet-rgb-5-58c818a68f809-1.png",
                             "https://www.youtube.com/watch?v=6DBi41reeF0")
-# Movie class - Kingsman
+# Movie instance - Kingsman
 kingsman = media.Movie("Kingsman",
                        "When their headquarters are destroyed and the world "
                        "is held hostage, the Kingsman's journey leads them "
@@ -20,7 +21,7 @@ kingsman = media.Movie("Kingsman",
                        "Y2EyXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_UY1200_CR90,"
                        "0,630,1200_AL_.jpg",
                        "https://www.youtube.com/watch?v=6Nxc-3WpMbg")
-# Movie class - Atomic Blonde
+# Movie instance - Atomic Blonde
 atomic_blonde = media.Movie("Atomic Blonde",
                             "An undercover MI6 agent is sent to Berlin "
                             "during the Cold War to investigate the murder "
@@ -29,7 +30,7 @@ atomic_blonde = media.Movie("Atomic Blonde",
                             "https://posterspy.com/wp-content/uploads/2017"
                             "/03/Atomic-Blonde-MD-Posters.jpg",
                             "https://www.youtube.com/watch?v=nI7HVnZlleo")
-# Movie class - Dunkirk
+# Movie instance - Dunkirk
 dunkirk = media.Movie("Dunkirk",
                       "Allied soldiers from Belgium, the British Empire, "
                       "Canada, and France are surrounded by the German army "
@@ -37,7 +38,7 @@ dunkirk = media.Movie("Dunkirk",
                       "http://cdn1-www.comingsoon.net/assets/uploads/gallery"
                       "/dunkirk/dunkirk.jpg",
                       "https://www.youtube.com/watch?v=F-eMt3SrfFU")
-# Movie class - Blade Runner
+# Movie instance - Blade Runner
 blade_runner = media.Movie("Blade Runner 2049",
                            "Thirty years after the events of the first film, "
                            "a new blade runner, LAPD Officer K (Ryan "
@@ -50,7 +51,7 @@ blade_runner = media.Movie("Blade Runner 2049",
                            "http://www.impawards.com/2017/posters/"
                            "blade_runner_twenty_forty_nine_ver3_xlg.jpg",
                            "https://www.youtube.com/watch?v=gCcx85zbxz4")
-# Movie class - The Last Jedi
+# Movie instance - The Last Jedi
 last_jedi = media.Movie("The Last Jedi",
                         "The next chapter in the Skywalker saga arrives "
                         "December 2017",
